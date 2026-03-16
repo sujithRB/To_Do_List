@@ -1,5 +1,5 @@
 # Ex03 To-Do List using JavaScript
-## Date: 10.2.2026
+## Date: 10.3.2026
 
 ## AIM
 To create a To-do Application with all features using JavaScript.
